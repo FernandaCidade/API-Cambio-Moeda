@@ -31,6 +31,5 @@ sudo apt install Flask
 sudo apt install forex_python.converter
 ```
 
-## ⚙️Testes
-Projeto em fase inicial de testes. 
+
 
